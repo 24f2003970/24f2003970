@@ -27,7 +27,7 @@ A full-stack application for managing property maintenance across Tenant, Manage
 - Workflow notifications and private file attachments with role-based access.
 - Built with Next.js, PostgreSQL, and Prisma; deployed to production on Railway, with automated tests and CI.
 
-[Repository](https://github.com/shashwatmishra18/proptech-maintenance) · [Live App](https://fixnest.up.railway.app)
+[Repository](https://github.com/24f2003970/FixNest) · [Live App](https://fixnest.up.railway.app)
 
 ## Currently Focused On
 
